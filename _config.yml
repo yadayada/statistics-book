@@ -22,3 +22,5 @@ version:          19.1
 
 bookviewer:       http://philschatz.com/book-viewer
 
+
+theme: jekyll-theme-slate
