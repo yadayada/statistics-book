@@ -6,9 +6,9 @@ markdown:         kramdown
 #permalink:        pretty
 
 # Setup
-title:            'Statistics'
+title:            'Statistics Fork'
 tagline:          'from http://cnx.org/contents/30189442-6998-4686-ac05-ed152b91b9de@19.1 (CC-BY)'
-url:              https://github.com/philschatz/statistics-book
+url:              https://github.com/yadayada/statistics-book
 origin:           http://cnx.org/contents/30189442-6998-4686-ac05-ed152b91b9de@19.1
 
 author:
@@ -20,6 +20,7 @@ paginate:         5
 # Custom vars
 version:          19.1
 
+#???
 bookviewer:       http://philschatz.com/book-viewer
 
 
